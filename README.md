@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Solving sudoku game with backtrack algorithms.
+Solving sudoku game with backtrack algorithm.
